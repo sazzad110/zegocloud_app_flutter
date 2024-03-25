@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:zegocloud_app_flutter/pages/call_page.dart';
+
+import 'call_page.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
